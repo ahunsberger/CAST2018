@@ -1,2 +1,1 @@
-# CAST2018
-h1. Whole Team Approach to Testing in Continuous Delivery
+# CAST2018 - Whole Team Approach to Testing in Continuous Delivery
